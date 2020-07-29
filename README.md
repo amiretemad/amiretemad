@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a project with Golang and I need some one to contirbute with me to prepare a simple project to working with Google Map APIs with ability to cache data to reduce calling Google APIs.
+I’m currently working on a project with Golang and I need some one to contirbute with me to prepare a simple project to working with Google Map APIs with ability to cache data to reduce calling Google APIs.
 
 
 <!--
