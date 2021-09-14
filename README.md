@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on my Medium account.
-- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on some open source project written in PHP.
 
 <!--
